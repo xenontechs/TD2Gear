@@ -1,18 +1,17 @@
 {
-  "boni":[
-    {
-      "1":"+10% Accuracy", 
-      "2":"+10% Headshot Damage",
-      "3":"+10% Sniper Damage"
-      ]
-    },
   "brands": [
     {
       "name":"Airaldi Holding",
-      "bonus1":1",
-      "bonus2":"2",
-      "bonus3":"3",
+      "bonus1": ["Accuracy", "10"],
+      "bonus2": ["Headshot Damage", "10"],
+      "bonus3": ["Marksman Rifle Damage", "10"],
       "availability":["Backpack","Gloves","Holster"]
-     },
+     },{
+      "name":"Alps Summit Armament",
+      "bonus1": ["Cooldown Reduction", "10"],
+      "bonus2": ["Skillpower", "5"],
+      "bonus3": ["Skillpower: Hive", "15"],
+      "availability":["Backpack","Gloves","Holster"]
+     }
      ]
 }

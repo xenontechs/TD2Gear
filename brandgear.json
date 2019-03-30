@@ -2,6 +2,12 @@
 
   "brands": [
     {
+      "name":"5.11 Tactical",
+      "bonus1": ["Protection from Elites", "5"],
+      "bonus2": ["incoming healing", "10"],
+      "bonus3": ["Weapon Handling", "10"],
+      "availability":["Backpack","Gloves","West"]
+     },{
       "name":"Airaldi Holding",
       "bonus1": ["Accuracy", "10"],
       "bonus2": ["Headshot Damage", "10"],
@@ -12,7 +18,7 @@
       "bonus1": ["Cooldown Reduction", "10"],
       "bonus2": ["Skillpower", "5"],
       "bonus3": ["Skillpower: Hive", "15"],
-      "availability":["Backpack","Gloves","Holster"]
+      "availability":["Backpack","Gloves","West"]
      },{
       "name":"Badger Tuff",
       "bonus1":["Damage to Elites", "7"],

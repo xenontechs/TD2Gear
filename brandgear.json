@@ -1,4 +1,5 @@
 {
+
   "brands": [
     {
       "name":"Airaldi Holding",
@@ -12,6 +13,12 @@
       "bonus2": ["Skillpower", "5"],
       "bonus3": ["Skillpower: Hive", "15"],
       "availability":["Backpack","Gloves","Holster"]
+     },{
+      "name":"Badger Tuff",
+      "bonus1":["Damage to Elites", "7"],
+      "bonus2":["Armor % on Kill", "15"],
+      "bonus3":["Chem Launcher Skill Power", "7"],
+      "availability":["Backpack","Gloves","Mask"]
      }
-     ]
+  ]
 }

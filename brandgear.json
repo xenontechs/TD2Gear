@@ -1,0 +1,11 @@
+{
+  "brands": [
+    {
+      "name":"Airaldi Holding",
+      "bonus1":"+10% precision",
+      "bonus2":"+10% HS DMG",
+      "bonus3":"+10% Sniper DMG",
+      "availability":["Backpack","Gloves","Holster"]
+     }
+     ]
+}

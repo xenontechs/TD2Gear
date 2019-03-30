@@ -2,8 +2,10 @@
   "boni":[
     {
       "1":"+10% Accuracy", 
-      "2":"+10% Headshot Damage"
+      "2":"+10% Headshot Damage",
       "3":"+10% Sniper Damage"
+      ]
+    },
   "brands": [
     {
       "name":"Airaldi Holding",
@@ -11,6 +13,6 @@
       "bonus2":"2",
       "bonus3":"3",
       "availability":["Backpack","Gloves","Holster"]
-     }
+     },
      ]
 }

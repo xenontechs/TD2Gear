@@ -6,7 +6,7 @@
       "bonus1": ["Protection from Elites", "5"],
       "bonus2": ["incoming healing", "10"],
       "bonus3": ["Weapon Handling", "10"],
-      "availability":["Backpack","Gloves","West"]
+      "availability":["Backpack","Gloves","Body Armor"]
      },{
       "name":"Airaldi Holding",
       "bonus1": ["Accuracy", "10"],
@@ -18,13 +18,41 @@
       "bonus1": ["Cooldown Reduction", "10"],
       "bonus2": ["Skillpower", "5"],
       "bonus3": ["Skillpower: Hive", "15"],
-      "availability":["Backpack","Gloves","West"]
+      "availability":["Backpack","Gloves","Body Armor"]
      },{
       "name":"Badger Tuff",
       "bonus1":["Damage to Elites", "7"],
       "bonus2":["Armor % on Kill", "15"],
       "bonus3":["Chem Launcher Skill Power", "7"],
       "availability":["Backpack","Gloves","Mask"]
+     },{
+      "name":"Yaahl Gear",
+      "bonus1": ["Weapon Handling", "10"],
+      "bonus2": ["Hazard Protection", "8"],
+      "bonus3": ["Weapon Damage", "5"],
+      "availability":["Maske","Weste","Handschuhe"]
+     },{
+      "name":"Wyvern Wear",
+      "bonus1": ["Critical Hit Damage", "7"],
+      "bonus2": ["Drone Skill Power", "15"],
+      "bonus3": ["Critical Hit Chance", "10"],
+      "availability":["Mask","Holster","Backpack","Kneepads"]
+     },{
+      "name":"Sokolov Concern",
+      "bonus1": ["SMG Damage", "10"],
+      "bonus2": ["Critical Hit Damage", "8"],
+      "bonus3": ["Seeker Skill Power", "15"],
+      "availability":["Mask","Body Armor","Kneepads"]
+     },{
+      "name":"Richter & Kaiser GmbH",
+      "bonus1": ["Hazard Protection", "10"],
+      "bonus2": ["Pistol Damage", "20"],
+      "bonus3": ["Shield Skill Power", "15"],
+      "availability":["Mask","Holster","Backpack"]
      }
+
+
+
+
   ]
 }

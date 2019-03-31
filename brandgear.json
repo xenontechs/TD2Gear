@@ -1,106 +1,126 @@
 {
 
-  "brands": [
-    {
-      "name":"5.11 Tactical",
-      "bonus1": ["Protection from Elites", "5"],
-      "bonus2": ["incoming healing", "10"],
-      "bonus3": ["Weapon Handling", "10"],
-      "availability":["Backpack","Gloves","Body Armor"]
-     },{
-      "name":"Airaldi Holding",
-      "bonus1": ["Accuracy", "10"],
-      "bonus2": ["Headshot Damage", "10"],
-      "bonus3": ["Marksman Rifle Damage", "10"],
-      "availability":["Backpack","Gloves","Holster"]
-     },{
-      "name":"Alps Summit Armament",
-      "bonus1": ["Cooldown Reduction", "10"],
-      "bonus2": ["Skillpower", "5"],
-      "bonus3": ["Skillpower: Hive", "15"],
-      "availability":["Backpack","Gloves","Body Armor"]
-     },{
-      "name":"Badger Tuff",
-      "bonus1":["Damage to Elites", "7"],
-      "bonus2":["Armor % on Kill", "15"],
-      "bonus3":["Chem Launcher Skill Power", "7"],
-      "availability":["Backpack","Gloves","Mask"]
-     },{
-      "name":"Yaahl Gear",
-      "bonus1": ["Weapon Handling", "10"],
-      "bonus2": ["Hazard Protection", "8"],
-      "bonus3": ["Weapon Damage", "5"],
-      "availability":["Maske","Weste","Handschuhe"]
-     },{
-      "name":"Wyvern Wear",
-      "bonus1": ["Critical Hit Damage", "7"],
-      "bonus2": ["Drone Skill Power", "15"],
-      "bonus3": ["Critical Hit Chance", "10"],
-      "availability":["Mask","Holster","Backpack","Kneepads"]
-     },{
-      "name":"Sokolov Concern",
-      "bonus1": ["SMG Damage", "10"],
-      "bonus2": ["Critical Hit Damage", "8"],
-      "bonus3": ["Seeker Skill Power", "15"],
-      "availability":["Mask","Body Armor","Kneepads"]
-     },{
-      "name":"Richter & Kaiser GmbH",
-      "bonus1": ["Hazard Protection", "10"],
-      "bonus2": ["Pistol Damage", "20"],
-      "bonus3": ["Shield Skill Power", "15"],
-      "availability":["Mask","Holster","Backpack"]
-     },{
-      "name":"China Light Industries Corporation",
-      "bonus1": ["Explosives Damage", "10"],
-      "bonus2": ["Shotgun Damage", "10"],
-      "bonus3": ["Cooldown Reduction", "10"],
-      "availability":["Mask","Gloves","Kneepads"]
-     },{
-      "name":"Douglas & Harding",
-      "bonus1": ["Accuracy", "5"],
-      "bonus2": ["Critical Hit Damage", "10"],
-      "bonus3": ["Critical Hit Chance", "7"],
-      "availability":["Mask","Holster","Kneepads"]
-     },{
-      "name":"Fenris Group AB",
-      "bonus1": ["Assault Rifle Damage", "10"],
-      "bonus2": ["Protection From Elites", "10"],
-      "bonus3": ["Health on Kill", "20"],
-      "availability":["Mask","Holster","Kneepads"]
-     },{
-      "name":"Gila Guard",
-      "bonus1": ["Total Armor", "5"],
-      "bonus2": ["Hazard Protection", "20"],
-      "bonus3": ["Pulse Skill Power", "15"],
-      "availability":["Mask","Bodyarmor","Holster","Backpack","Gloves","Kneepads"]
-     },{
-      "name":"Murakami Industries",
-      "bonus1": ["Health", "8"],
-      "bonus2": ["Hazard Protection", "10"],
-      "bonus3": ["Firefly Skill Power", "15"],
-      "availability":["Mask","Bodyarmor","Holster","Backpack","Gloves","Kneepads"]
-     },{
-      "name":"Overlord Armaments",
-      "bonus1": ["Rifle Damage", "10"],
-      "bonus2": ["Total Armor", "7.5"],
-      "bonus3": ["Damage to Elites", ""],
-      "availability":["Bodyarmor","Gloves","Kneepads"]
-     },{
-      "name":"Petrov Defense Group",
-      "bonus1": ["LMG Damage", "10"],
-      "bonus2": ["Turret Skill Power", "15"],
-      "bonus3": ["Cooldown Reduction", "10"],
-      "availability":["Bodyarmor","Holster","Backpack"]
-     },{
-      "name":"Providence Defense",
-      "bonus1": ["Skill Power", "10"],
-      "bonus2": ["Health", "8"],
-      "bonus3": ["Weapon Damage", "5"],
-      "availability":["Mask","Bodyarmor","Holster","Backpack","Gloves","Kneepads"]
-     }
-
-
-
-
-  ]
+	"brands": [{
+		"name": "5.11 Tactical",
+		"bonus1": ["Protection from Elites", "5"],
+		"bonus2": ["incoming healing", "10"],
+		"bonus3": ["Weapon Handling", "10"],
+		"availability": ["Backpack", "Gloves", "Body Armor"]
+	}, {
+		"name": "Airaldi Holding",
+		"bonus1": ["Accuracy", "10"],
+		"bonus2": ["Headshot Damage", "10"],
+		"bonus3": ["Marksman Rifle Damage", "10"],
+		"availability": ["Backpack", "Gloves", "Holster"]
+	}, {
+		"name": "Alps Summit Armament",
+		"bonus1": ["Cooldown Reduction", "10"],
+		"bonus2": ["Skillpower", "5"],
+		"bonus3": ["Skillpower: Hive", "15"],
+		"availability": ["Backpack", "Gloves", "Body Armor"]
+	}, {
+		"name": "Badger Tuff",
+		"bonus1": ["Damage to Elites", "7"],
+		"bonus2": ["Armor % on Kill", "15"],
+		"bonus3": ["Chem Launcher Skill Power", "7"],
+		"availability": ["Backpack", "Gloves", "Mask"]
+	}, {
+		"name": "Yaahl Gear",
+		"bonus1": ["Weapon Handling", "10"],
+		"bonus2": ["Hazard Protection", "8"],
+		"bonus3": ["Weapon Damage", "5"],
+		"availability": ["Maske", "Weste", "Handschuhe"]
+	}, {
+		"name": "Wyvern Wear",
+		"bonus1": ["Critical Hit Damage", "7"],
+		"bonus2": ["Drone Skill Power", "15"],
+		"bonus3": ["Critical Hit Chance", "10"],
+		"availability": ["Mask", "Holster", "Backpack", "Kneepads"]
+	}, {
+		"name": "Sokolov Concern",
+		"bonus1": ["SMG Damage", "10"],
+		"bonus2": ["Critical Hit Damage", "8"],
+		"bonus3": ["Seeker Skill Power", "15"],
+		"availability": ["Mask", "Body Armor", "Kneepads"]
+	}, {
+		"name": "Richter & Kaiser GmbH",
+		"bonus1": ["Hazard Protection", "10"],
+		"bonus2": ["Pistol Damage", "20"],
+		"bonus3": ["Shield Skill Power", "15"],
+		"availability": ["Mask", "Holster", "Backpack"]
+	}, {
+		"name": "China Light Industries Corporation",
+		"bonus1": ["Explosives Damage", "10"],
+		"bonus2": ["Shotgun Damage", "10"],
+		"bonus3": ["Cooldown Reduction", "10"],
+		"availability": ["Mask", "Gloves", "Kneepads"]
+	}, {
+		"name": "Douglas & Harding",
+		"bonus1": ["Accuracy", "5"],
+		"bonus2": ["Critical Hit Damage", "10"],
+		"bonus3": ["Critical Hit Chance", "7"],
+		"availability": ["Mask", "Holster", "Kneepads"]
+	}, {
+		"name": "Fenris Group AB",
+		"bonus1": ["Assault Rifle Damage", "10"],
+		"bonus2": ["Protection From Elites", "10"],
+		"bonus3": ["Health on Kill", "20"],
+		"availability": ["Mask", "Holster", "Kneepads"]
+	}, {
+		"name": "Gila Guard",
+		"bonus1": ["Total Armor", "5"],
+		"bonus2": ["Hazard Protection", "20"],
+		"bonus3": ["Pulse Skill Power", "15"],
+		"availability": ["Mask", "Bodyarmor", "Holster", "Backpack", "Gloves", "Kneepads"]
+	}, {
+		"name": "Murakami Industries",
+		"bonus1": ["Health", "8"],
+		"bonus2": ["Hazard Protection", "10"],
+		"bonus3": ["Firefly Skill Power", "15"],
+		"availability": ["Mask", "Bodyarmor", "Holster", "Backpack", "Gloves", "Kneepads"]
+	}, {
+		"name": "Overlord Armaments",
+		"bonus1": ["Rifle Damage", "10"],
+		"bonus2": ["Total Armor", "7.5"],
+		"bonus3": ["Damage to Elites", ""],
+		"availability": ["Bodyarmor", "Gloves", "Kneepads"]
+	}, {
+		"name": "Petrov Defense Group",
+		"bonus1": ["LMG Damage", "10"],
+		"bonus2": ["Turret Skill Power", "15"],
+		"bonus3": ["Cooldown Reduction", "10"],
+		"availability": ["Bodyarmor", "Holster", "Backpack"]
+	}, {
+		"name": "Providence Defense",
+		"bonus1": ["Skill Power", "10"],
+		"bonus2": ["Health", "8"],
+		"bonus3": ["Weapon Damage", "5"],
+		"availability": ["Mask", "Bodyarmor", "Holster", "Backpack", "Gloves", "Kneepads"]
+	}],
+	"attributes": {
+		"offensive": {
+			"Weapon Damage": ["Body Armor", "Backpack"],
+			"Critical Hit Chance": ["Mask", "Body Armor", "Holster", "Backpack", "Gloves", "Kneepads"],
+			"Critical Hit Damage": ["Body Armor", "Holster", "Backpack"],
+			"Damage To Elites": ["Mask"],
+			"Headshot Damage": ["Body Armor"],
+			"Pistol Damage": ["Gloves"],
+			"Shotgun Damage": ["Gloves"],
+			"SMG Damage": ["Gloves"],
+			"Assault Rifle Damage": ["Gloves"],
+			"LMG Damage": ["Gloves"],
+			"Rifle Damage": ["Gloves"],
+			"Marksman Damage": ["Gloves"]
+		},
+		"defensive": {
+			"Bonus Armor": ["Body Armor", "Backpack", "Kneepads"],
+			"Hazard Protection": ["Mask"],
+			"Health": ["Mask", "Body Armor", "Holster", "Backpack", "Gloves", "Kneepads"],
+			"Health On Kill": ["Mask", "Holster"]
+		},
+		"special": {
+			"Cooldown Reduction": ["Mask", "Holster", "Backpack", "Kneepads"],
+			"Skill Power": ["Mask", "Body Armor", "Holster", "Backpack", "Gloves", "Kneepads"]
+		}
+	}
 }
